@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Hanning Lin"
 description              : &description "Quantitative Analyst | ML Fairness | Python, SQL, R"
 url: "https://gsyh.github.io"
-baseurl: "/hanning.github.io"
+baseurl: ""
 repository               : "GSYH/hanning.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
